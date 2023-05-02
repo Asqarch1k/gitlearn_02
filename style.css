@@ -1,0 +1,230 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+main{
+    max-width: 1903px;
+    margin: 0 auto;
+    background-image: url(./imgs/Back_img.svg);
+    background-repeat: no-repeat;
+    border: 2px solid red;
+}
+
+.top_foto{
+    margin-left: 955px;
+    margin-top: -480px;
+   
+    
+} 
+
+.top_img{
+    margin: 50px 352px;
+}
+
+.what_is{
+    font-size: 30px;
+}
+
+.what_is_lorem{
+    font-size: 36px;
+}
+
+.lorem_tex{
+    width: 425px;
+}
+
+.top_tex{
+    font-weight: bold;
+}
+
+.tex{
+    margin-left: 352px;
+    padding-top: 100px;
+    
+}
+
+.help{
+    width: 160px;
+    height: 46px;
+    border-radius: 42px;
+    background-color: #E15252;
+    margin-top: 20px;
+}
+
+.service_tex{
+    display: inline-block;
+    text-align: center;
+    width: 698px;
+    height: 292px;
+    background-color: #F2F2F2;
+    margin-left: 603px;
+
+}
+
+.service_tex1{
+    color: #333333;
+    font-size: 64px;
+    margin: 100px;
+}
+
+.service_tex2{
+    font-size: 18px;
+    text-align: center;
+    color: #E15252;
+    margin-top: -100px;
+}
+
+.circle_foto{
+    display: flex;
+    margin: 52px auto;
+    justify-content: center;
+    gap: 111px;
+    
+}
+
+.diagnos_tex{
+    display: flex;
+    margin: 52px auto;
+    justify-content: center;
+    gap: 100px;
+    font-weight: bold;
+}
+
+.lorem_tex_2{
+    display: flex;
+    justify-content: center;
+    gap: 72px;
+    margin-left: 90px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.get_tex{
+    background: #E15252;
+    width: 208px;
+    height: 46px;
+    border-radius: 42px;
+    text-align: center;
+    margin-left: 851px;
+    margin-top: 35px;
+}
+
+.girl_foto{
+    margin-left: 352px;
+    margin-top: 192px;
+}
+
+.girl_foto_tex{
+    width: 704px;
+    height: 648px;
+    background-color:  #FFFFFF;
+    margin-left: 851px;
+    margin-top: -650px;
+    border-radius: 0 50px 0px 0px;
+}
+
+.company_name{
+    font-family: 'Vampiro One';
+    font-size: 46px;
+    color: #333333;
+    margin-left: 30px;
+    padding-top: 139px;
+}
+
+.liner{
+    width: 90px;
+    height: 2px;
+    background-color: red;
+    margin-left: 30px;
+    margin-top: 22px;
+}
+
+.about_tex{
+    text-align: center;
+    font-size: 64px;
+    color: white;
+    margin-top: 50px;
+}
+
+.border_3{
+    margin-top: -123px;
+}
+
+.girl_lorem_tex{
+    margin-left: 30px;
+    margin-top: 20px;
+    color: #4F4F4F;
+    width: 352px;
+    height: 204px;
+}
+
+.get_tex2{
+    background: #E15252;
+    width: 208px;
+    height: 46px;
+    border-radius: 42px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.contac_tex{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-size: 64px;
+}
+
+.request_tex{
+    text-align: center;
+    color: #333333;
+    font-size: 18px;
+}
+
+.mail_box{
+    width: 374px;
+    height: 56px;
+    border-radius: 61px;
+    background-color:  #FFFFFF;
+    margin-left: 462px;
+    margin-top: 42px;
+}
+.number_box{
+    width: 374px;
+    height: 56px;
+    border-radius: 61px;
+    background-color:  #FFFFFF;
+    margin-left: 462px;
+    margin-top: 10px;
+}
+
+.adres_box{
+    width: 374px;
+    height: 56px;
+    border-radius: 61px;
+    background-color:  #FFFFFF;
+    margin-left: 462px;
+    margin-top: 10px;
+}
+
+.mail{
+    margin-left: 980px;
+    margin-top: -180px;
+}
+
+.number{
+    margin-left: 980px;
+    margin-top: 45px;
+}
+
+.adres{
+    margin-left: 980px;
+    margin-top: 45px;
+}
+
+.box{
+    margin-top: 378px;
+}
